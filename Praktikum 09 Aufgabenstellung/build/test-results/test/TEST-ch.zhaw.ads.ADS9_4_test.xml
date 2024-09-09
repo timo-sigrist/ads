@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS9_4_test" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-11-28T14:13:04" hostname="TABLET-TRPP7MLB" time="0.068">
+  <properties/>
+  <testcase name="testAdd()" classname="ch.zhaw.ads.ADS9_4_test" time="0.048"/>
+  <testcase name="testMixed()" classname="ch.zhaw.ads.ADS9_4_test" time="0.004"/>
+  <testcase name="testAdd2()" classname="ch.zhaw.ads.ADS9_4_test" time="0.002"/>
+  <testcase name="testAdd3()" classname="ch.zhaw.ads.ADS9_4_test" time="0.001"/>
+  <testcase name="testAdd4()" classname="ch.zhaw.ads.ADS9_4_test" time="0.001"/>
+  <testcase name="testSize()" classname="ch.zhaw.ads.ADS9_4_test" time="0.002"/>
+  <testcase name="testRemove()" classname="ch.zhaw.ads.ADS9_4_test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
